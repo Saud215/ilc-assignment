@@ -1,0 +1,11 @@
+{
+  "description": "A made-up sample student for demos. answers are in questions.json item order, 0 to 4 each. This student leans Investigative, Artistic and Social.",
+  "answers": [
+    1, 4, 3, 3, 1, 2,
+    2, 4, 3, 3, 0, 1,
+    1, 3, 4, 2, 1, 1,
+    0, 4, 3, 4, 1, 2,
+    2, 3, 2, 3, 0, 1
+  ],
+  "about": "I really enjoy biology and spend weekends sketching plants and animals. My friends say I am patient and good at explaining hard topics. I am not sure what job I want yet, but I like working with people."
+}

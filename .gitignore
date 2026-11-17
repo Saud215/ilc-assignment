@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.claude/
+reference/
+cache/
+.DS_Store
+.claude/
+.venv/
+.env
+cache/
+__pycache__/
+.pytest_cache/
+ilc-assignment.pdf
